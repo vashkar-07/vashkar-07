@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vashkar Kar
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Blockchain.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Blockchain.
 - 🌱 I’m currently learning Hyperledger Fabric
 - 📫 How to reach me : Mail: vashkar1807@cseku.ac.bd
 
